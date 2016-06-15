@@ -1,17 +1,6 @@
-# crc16
+# crc16 [![Build Status](https://travis-ci.org/maiha/crc16.cr.svg?branch=master)](https://travis-ci.org/maiha/crc16.cr)
 
 crc16 for Crystal
-
-## Installation
-
-
-Add this to your application's `shard.yml`:
-
-```yaml
-dependencies:
-  crc16:
-    github: maiha/crc16.cr
-```
 
 ## Usage
 
@@ -20,6 +9,16 @@ dependencies:
 require "crc16"
 
 Crc16.crc16("foo")  # => 44950
+```
+
+## Installation
+
+Add this to your application's `shard.yml`:
+
+```yaml
+dependencies:
+  crc16:
+    github: maiha/crc16.cr
 ```
 
 ## Contributing
