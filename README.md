@@ -1,6 +1,8 @@
 # crc16 [![Build Status](https://travis-ci.org/maiha/crc16.cr.svg?branch=master)](https://travis-ci.org/maiha/crc16.cr)
 
-crc16 for Crystal
+crc16 for [Crystal](http://crystal-lang.org/).
+
+- crystal: 0.20.0, 0.19.4
 
 ## Usage
 
