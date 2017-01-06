@@ -2,7 +2,7 @@
 
 crc16 for [Crystal](http://crystal-lang.org/).
 
-- crystal: 0.20.0, 0.19.4
+- crystal: 0.20.4
 
 ## Usage
 
@@ -21,6 +21,7 @@ Add this to your application's `shard.yml`:
 dependencies:
   crc16:
     github: maiha/crc16.cr
+    version: 0.1.0
 ```
 
 ## Contributing
